@@ -1,7 +1,0 @@
-streamlit
-streamlit-folium
-folium
-lightgbm
-pandas
-numpy
-requests
